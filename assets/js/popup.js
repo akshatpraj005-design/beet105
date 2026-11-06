@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /**
    * LANDER LOGIC (Redirect on both buttons)
    */
-  const landerRedirect = "https://toppickzone.site/";
+  const landerRedirect = "https://dailyverse.online";
 
   document.getElementById("gn-yes").addEventListener("click", () => {
     if (isLander) {
